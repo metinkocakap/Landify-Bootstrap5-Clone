@@ -24,6 +24,7 @@
     background-position: -10% 80%,-10% 93%;
 }
 
+
 .b-background{
     background: #7C3AED;
 }
@@ -34,3 +35,18 @@
     height: 32px;
     width: 32px;
 }
+
+.mid-bottom{
+    background: #D5FAFC;
+}
+.tailor-logo2{
+    height: 80px;
+    width: 80px;
+}
+.tirnak{
+    height: 15px;
+    width: 13px;
+    margin-left: -18px;
+    margin-top: -20px;
+}
+
