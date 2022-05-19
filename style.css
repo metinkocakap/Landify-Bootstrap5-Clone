@@ -9,6 +9,24 @@
     .app{
    right: 15%;
     }
- 
+
  }
 
+.right{
+    background-image: url(assets/Right\ Band\ 1.svg),url(assets/Right\ Band\ 2.svg),url(assets/Right\ Band\ 3.svg);
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-position: 90% 50%,100% 63%,100% 66%;
+   
+}
+.left{
+    background-image: url(assets/Left\ Band\ 1.svg),url(assets/Left\ Band\ 2.svg);
+    background-repeat: no-repeat,no-repeat;
+    background-position: -10% 80%,-10% 93%;
+}
+
+.b-background{
+    background: #7C3AED;
+}
+.b-text{
+    color: #7C3AED;
+}
